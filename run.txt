@@ -1,2 +1,6 @@
+python -m venv hocnoovjppro
+pip install cvzone
+pip install mediapipe
+
 cd hocnoovjppro
 Scripts\activate
